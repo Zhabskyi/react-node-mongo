@@ -11,6 +11,7 @@
   "author": "Oleksandr",
   "license": "ISC",
   "dependencies": {
-    "concurrently": "^5.0.0"
+    "concurrently": "^5.0.0",
+    "mime": "^2.4.4"
   }
 }
